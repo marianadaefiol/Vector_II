@@ -1,0 +1,16 @@
+[StartTime]
+corpo-estatico.MFC=11s
+[SolverState]
+corpo-estatico.MFC=2
+[MainFrame]
+corpo-estatico.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+corpo-estatico.MFC=No
+[SolverType]
+corpo-estatico.MFC=Análise Linear
+[StudyType]
+corpo-estatico.MFC=0
+[StudyName]
+corpo-estatico.MFC=estatico
+[Solver]
+corpo-estatico.MFC=Iterative
