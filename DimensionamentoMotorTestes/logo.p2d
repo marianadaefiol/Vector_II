@@ -1,0 +1,21 @@
+
+color texture "decal_image_tex" "c:\users\alexa\dropbox\projetos\projeto-vetor-ii\engine_design\test_engine\logo.png" 
+
+,
+	 "swP2D"  on ,
+	 "useUnderlyingAppearance"  on ,
+	 "diffuse_factor"  1 ,
+	 "specular_factor"  1 ,
+	 "specular_color"  1 1 1 ,
+	 "roughness"  0.01 ,
+	 "reflectivity"  0 ,
+	 "mtl_ior"  1 ,
+	 "transparency"  0 ,
+	 "blurryReflections"  off ,
+	 "doubleSided"  on ,
+	 "refractionRoughness"  0 ,
+	 "luminousIntensity"  0 ,
+	 "initTextureWidth"  0.196 ,
+	 "initTextureHeight"  0.179667 ,
+	 "masking_mode"  3 ,
+	 "invert_mask"  off 
