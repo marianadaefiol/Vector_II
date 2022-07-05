@@ -166,6 +166,7 @@ end
 H_max(1,:) = max(h(:,:))
 v_max(1,:) = max(v(:,:))
 a_max(1,:) = max(Acc(:,:)/g)
+Fd_max(1,:) = max(Fd(:,:))
 
 
 
