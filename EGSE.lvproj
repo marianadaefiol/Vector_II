@@ -12,6 +12,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="EGSE.vi" Type="VI" URL="../EGSE.vi"/>
+		<Item Name="time.ctl" Type="VI" URL="../time.ctl"/>
+		<Item Name="height_graf.ctl" Type="VI" URL="../height_graf.ctl"/>
+		<Item Name="height.ctl" Type="VI" URL="../height.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
