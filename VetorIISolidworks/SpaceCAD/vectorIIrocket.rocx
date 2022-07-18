@@ -27,7 +27,7 @@
     <Color>&lt;DisplayColor AmbientOpacity="1" DiffuseOpacity="1" UseAmbient="0" Color2D="0" AmbientColor="8421504" DiffuseColor="8421504"/&gt;</Color>
     <AttachedElements>
       <Nosecone>
-        <Serial>27</Serial>
+        <Serial>16</Serial>
         <MatrixID>1</MatrixID>
         <Description>Nose Cone</Description>
         <XLength>0</XLength>
@@ -55,7 +55,7 @@
         <ShapeParameter>0</ShapeParameter>
         <AttachedElements>
           <MassObject>
-            <Serial>28</Serial>
+            <Serial>17</Serial>
             <MatrixID>6</MatrixID>
             <Description>Mass / Weight</Description>
             <XLength>0</XLength>
@@ -66,14 +66,14 @@
             <DBPartNo></DBPartNo>
             <DBPartDescription></DBPartDescription>
             <Material>(Unnamed)|0.00000000|100.00000000|True|0.00000000|True|g/mm³</Material>
-            <ReferenceData>3|27|100.00000000|150.00000000</ReferenceData>
+            <ReferenceData>3|16|100.00000000|150.00000000</ReferenceData>
             <RadialData>1|0.00000000|0.00000000</RadialData>
             <Color>&lt;DisplayColor AmbientOpacity="1" DiffuseOpacity="1" UseAmbient="0" Color2D="0" AmbientColor="8421504" DiffuseColor="8421504"/&gt;</Color>
           </MassObject>
         </AttachedElements>
       </Nosecone>
       <BodyTube>
-        <Serial>29</Serial>
+        <Serial>18</Serial>
         <MatrixID>2</MatrixID>
         <Description>Body Tube</Description>
         <XLength>310</XLength>
@@ -92,7 +92,7 @@
         <IsInsideTube>0</IsInsideTube>
         <AttachedElements>
           <MassObject>
-            <Serial>30</Serial>
+            <Serial>19</Serial>
             <MatrixID>6</MatrixID>
             <Description>Mass / Weight</Description>
             <XLength>0</XLength>
@@ -103,12 +103,12 @@
             <DBPartNo></DBPartNo>
             <DBPartDescription></DBPartDescription>
             <Material>(Unnamed)|0.00000000|100.00000000|True|0.00000000|True|g/mm³</Material>
-            <ReferenceData>2|29|0.00000000|250.00000000</ReferenceData>
+            <ReferenceData>2|18|0.00000000|250.00000000</ReferenceData>
             <RadialData>1|0.00000000|0.00000000</RadialData>
             <Color>&lt;DisplayColor AmbientOpacity="1" DiffuseOpacity="1" UseAmbient="0" Color2D="0" AmbientColor="8421504" DiffuseColor="8421504"/&gt;</Color>
           </MassObject>
           <MassObject>
-            <Serial>31</Serial>
+            <Serial>20</Serial>
             <MatrixID>6</MatrixID>
             <Description>Mass / Weight</Description>
             <XLength>0</XLength>
@@ -119,17 +119,17 @@
             <DBPartNo></DBPartNo>
             <DBPartDescription></DBPartDescription>
             <Material>(Unnamed)|0.00000000|100.00000000|True|0.00000000|True|g/mm³</Material>
-            <ReferenceData>4|29|0.00000000|405.00000000</ReferenceData>
+            <ReferenceData>4|18|0.00000000|405.00000000</ReferenceData>
             <RadialData>1|0.00000000|0.00000000</RadialData>
             <Color>&lt;DisplayColor AmbientOpacity="1" DiffuseOpacity="1" UseAmbient="0" Color2D="0" AmbientColor="8421504" DiffuseColor="8421504"/&gt;</Color>
           </MassObject>
         </AttachedElements>
       </BodyTube>
       <BodyTube>
-        <Serial>32</Serial>
+        <Serial>21</Serial>
         <MatrixID>2</MatrixID>
         <Description>Body Tube</Description>
-        <XLength>50</XLength>
+        <XLength>30</XLength>
         <Autosize>-1</Autosize>
         <Visible>-1</Visible>
         <MotorMount>0</MotorMount>
@@ -145,7 +145,7 @@
         <IsInsideTube>0</IsInsideTube>
         <AttachedElements>
           <MassObject>
-            <Serial>33</Serial>
+            <Serial>22</Serial>
             <MatrixID>6</MatrixID>
             <Description>Mass / Weight</Description>
             <XLength>0</XLength>
@@ -156,14 +156,14 @@
             <DBPartNo></DBPartNo>
             <DBPartDescription></DBPartDescription>
             <Material>(Unnamed)|0.00000000|50.00000000|True|0.00000000|True|g/mm³</Material>
-            <ReferenceData>4|32|0.00000000|585.00000000</ReferenceData>
+            <ReferenceData>4|21|0.00000000|575.00000000</ReferenceData>
             <RadialData>1|0.00000000|0.00000000</RadialData>
             <Color>&lt;DisplayColor AmbientOpacity="1" DiffuseOpacity="1" UseAmbient="0" Color2D="0" AmbientColor="8421504" DiffuseColor="8421504"/&gt;</Color>
           </MassObject>
         </AttachedElements>
       </BodyTube>
       <BodyTube>
-        <Serial>34</Serial>
+        <Serial>23</Serial>
         <MatrixID>2</MatrixID>
         <Description>Body Tube</Description>
         <XLength>600</XLength>
@@ -174,7 +174,7 @@
         <DBPartNo></DBPartNo>
         <DBPartDescription></DBPartDescription>
         <Material>.060 Carbon Fiber|0.00140000|290.00000000|True|0.00000000|False|g/mm³</Material>
-        <ReferenceData>1|-1|0.00000000|610.00000000</ReferenceData>
+        <ReferenceData>1|-1|0.00000000|590.00000000</ReferenceData>
         <RadialData>1|0.00000000|0.00000000</RadialData>
         <Color>&lt;DisplayColor AmbientOpacity="0.6" DiffuseOpacity="1" UseAmbient="-1" Color2D="0" AmbientColor="10053171" DiffuseColor="10053171"/&gt;</Color>
         <WallThickness>1</WallThickness>
@@ -182,7 +182,7 @@
         <IsInsideTube>0</IsInsideTube>
         <AttachedElements>
           <MassObject>
-            <Serial>35</Serial>
+            <Serial>24</Serial>
             <MatrixID>6</MatrixID>
             <Description>Mass / Weight</Description>
             <XLength>0</XLength>
@@ -193,12 +193,12 @@
             <DBPartNo></DBPartNo>
             <DBPartDescription></DBPartDescription>
             <Material>(Unnamed)|0.00000000|300.00000000|True|0.00000000|True|g/mm³</Material>
-            <ReferenceData>2|34|150.00000000|760.00000000</ReferenceData>
+            <ReferenceData>2|23|150.00000000|740.00000000</ReferenceData>
             <RadialData>1|0.00000000|0.00000000</RadialData>
             <Color>&lt;DisplayColor AmbientOpacity="1" DiffuseOpacity="1" UseAmbient="0" Color2D="0" AmbientColor="8421504" DiffuseColor="8421504"/&gt;</Color>
           </MassObject>
           <Fins>
-            <Serial>36</Serial>
+            <Serial>25</Serial>
             <MatrixID>4</MatrixID>
             <Description>Fin Set</Description>
             <XLength>200</XLength>
@@ -209,7 +209,7 @@
             <DBPartNo></DBPartNo>
             <DBPartDescription></DBPartDescription>
             <Material>.060 Carbon Fiber|0.00140000|0.00000000|False|0.00000000|False|g/mm³</Material>
-            <ReferenceData>3|34|30.00000000|1079.00000000</ReferenceData>
+            <ReferenceData>3|23|30.00000000|1059.00000000</ReferenceData>
             <RadialData>4|0.00000000|0.00000000</RadialData>
             <Color>&lt;DisplayColor AmbientOpacity="1" DiffuseOpacity="1" UseAmbient="-1" Color2D="0" AmbientColor="1153433" DiffuseColor="1140326"/&gt;</Color>
             <FmmA>0</FmmA>
@@ -232,7 +232,7 @@
             <Y3>0</Y3>
           </Fins>
           <EngineTube>
-            <Serial>37</Serial>
+            <Serial>26</Serial>
             <MatrixID>12</MatrixID>
             <Description>Aerotech I65W</Description>
             <XLength>0</XLength>
@@ -243,7 +243,7 @@
             <DBPartNo></DBPartNo>
             <DBPartDescription></DBPartDescription>
             <Material>Balsa|0.00289300|0.00000000|False|0.00000000|False|g/mm³</Material>
-            <ReferenceData>3|34|0.00000000|975.00000000</ReferenceData>
+            <ReferenceData>3|23|0.00000000|955.00000000</ReferenceData>
             <RadialData>1|0.00000000|0.00000000</RadialData>
             <Color>&lt;DisplayColor AmbientOpacity="0.7" DiffuseOpacity="1" UseAmbient="-1" Color2D="255" AmbientColor="2237081" DiffuseColor="2237081"/&gt;</Color>
             <Engine>Aerotech I65W</Engine>
