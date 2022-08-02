@@ -15,6 +15,7 @@
 		<Item Name="time.ctl" Type="VI" URL="../time.ctl"/>
 		<Item Name="height_graf.ctl" Type="VI" URL="../height_graf.ctl"/>
 		<Item Name="height.ctl" Type="VI" URL="../height.ctl"/>
+		<Item Name="start.ctl" Type="VI" URL="../start.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
